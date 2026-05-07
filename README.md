@@ -2,7 +2,7 @@
 Interested in all things technology!   
 
 - 🔭 I’m currently working as a Software Engineer at Fidelity Investments
-- 🌱 I’m currently learning the Rust programming language 🦀
+- 🌱 I’m currently learning offensive Cybersecurity
 - ⚡ Fun fact: I have been playing the drums for over 12 years! 🥁
 
 <br>
