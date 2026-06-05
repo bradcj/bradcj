@@ -2,8 +2,8 @@
 Interested in all things technology!   
 
 - 🔭 I’m currently working as a Software Engineer at Fidelity Investments
-- 🌱 I’m currently learning offensive Cybersecurity
-- ⚡ Fun fact: I have been playing the drums for over 12 years! 🥁
+- 🌱 I’m currently learning agentic AI development
+- ⚡ Fun fact: I have been playing the drums for over 14 years! 🥁
 
 <br>
 
